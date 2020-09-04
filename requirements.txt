@@ -1,0 +1,12 @@
+dynaconf==2.2.1
+Flask-SQLAlchemy==2.4.1
+Flask==1.1.1
+Flask-HTTPAuth==3.3.0
+flask-restful-swagger-2==0.35
+pytz==2019.3
+requests==2.24.0
+Flask-DebugToolbar==0.11.0
+Flask-Cors==3.0.8
+PyMySQL==0.9.3
+cryptography==3.1
+flask-simplelogin==0.0.7
